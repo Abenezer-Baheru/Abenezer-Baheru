@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abenezer Endale Baheru
-- 👀 I’m interested in Web Development, Software Development, and Data Analysis
+- 👀 I’m interested in Full-Stack Development, Software Development, and Data Analysis
 - 📫 How to reach me: via email at abeniug2001@gmail.com
 
 <!---
