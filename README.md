@@ -1,7 +1,4 @@
-<!-- [![MasterHead](https://drive.google.com/file/d/1ktVFCuZpSPgoow43S5fWjavNVvPwHDIK/view)](https://drive.google.com/file/d/1ktVFCuZpSPgoow43S5fWjavNVvPwHDIK/view) -->
-<!-- <img align="center" src="https://drive.google.com/file/d/1ktVFCuZpSPgoow43S5fWjavNVvPwHDIK/view" alt="abenezer-baheru" height="30" width="40"/> -->
 ![logo](https://github.com/Abenezer-Baheru/Abenezer-Baheru/blob/main/githubBanner.png)
-<!-- ## <p align="center">![alt text](https://drive.google.com/file/d/1ktVFCuZpSPgoow43S5fWjavNVvPwHDIK/view)</p> -->
 <h1 align="center">Hi 👋, I'm Abenezer Baheru</h1>
 <h3 align="center">A passionate Full-Stack developer from Ethiopia</h3>
 
