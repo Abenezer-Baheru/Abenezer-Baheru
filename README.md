@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abenezer Baheru</h1>
 <h3 align="center">A passionate Full-Stack developer from Ethiopia</h3>
 
-- 🔭 I’m currently working on [Evangadi Forum Web App](www.evangadiforum.abenezerbaheru.com)
+<!-- - 🔭 I’m currently working on [Evangadi Forum Web App](www.evangadiforum.abenezerbaheru.com) -->
 
 - 👨‍💻 All of my projects are available at [https://www.abenezerbaheru.com/](https://www.abenezerbaheru.com/)
 
