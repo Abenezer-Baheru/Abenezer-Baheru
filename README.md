@@ -4,7 +4,7 @@
 
 <!-- - 🔭 I’m currently working on [Evangadi Forum Web App](www.evangadiforum.abenezerbaheru.com) -->
 
-- 👨‍💻 All of my projects are available at [https://www.abenezerbaheru.com/](https://abeni.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://abeni.netlify.app/](https://abeni.netlify.app/)
 
 - 💬 Ask me about **Web Development, MERN**
 
