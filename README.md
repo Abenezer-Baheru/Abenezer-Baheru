@@ -1,10 +1,10 @@
-![logo](https://github.com/Abenezer-Baheru/Abenezer-Baheru/blob/main/githubBanner.png)
+![logo](https://github.com/Abenezer-Baheru/Abenezer-Baheru/blob/main/gitBanner.png)
 <h1 align="center">Hi 👋, I'm Abenezer Baheru</h1>
-<h3 align="center">A passionate Full-Stack developer from Ethiopia</h3>
+<h3 align="center">A passionate Data Scientist, and  AI/ML Engineer from Ethiopia</h3>
 
 <!-- - 🔭 I’m currently working on [Evangadi Forum Web App](www.evangadiforum.abenezerbaheru.com) -->
 
-- 👨‍💻 All of my projects are available at [https://abeni.netlify.app/](https://abeni.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://abeniii.netlify.app/](https://abeni.netlify.app/)
 
 - 📫 How to reach me **baheruabenezer@gmail.com**
 
