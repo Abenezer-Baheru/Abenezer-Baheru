@@ -4,11 +4,11 @@
 
 <!-- - 🔭 I’m currently working on [Evangadi Forum Web App](www.evangadiforum.abenezerbaheru.com) -->
 
-- 👨‍💻 All of my projects are available at [https://abeni.netlify.app/](https://abeniii.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://abeni.netlify.app/](https://abenii.netlify.app/)
 
-- 📫 How to reach me **baheruabenezer@gmail.com**
+- 📫 How to reach me: **baheruabenezer@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/18KyU2z3fNAfe133cqBmERxv05xQ5T4qb_f8Hq3UohmU/edit?usp=sharing)
+- 📄 Know about my experiences, visit: [My Resume](https://docs.google.com/document/d/18KyU2z3fNAfe133cqBmERxv05xQ5T4qb_f8Hq3UohmU/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
